@@ -4,10 +4,10 @@ import Header from "./components/Header";
 import Homepage from "./pages/Homepage";
 import Coinpage from "./pages/Coinpage";
 import "./App.css";
-import { HashRouter } from "react-router-dom";
+
 const App = () => {
   return (
-    <HashRouter>
+    
       <div
         style={{
           backgroundColor: "#14161a",
@@ -23,7 +23,7 @@ const App = () => {
         </Routes>
         
       </div>
-    </HashRouter>
+    
   );
 };
 
