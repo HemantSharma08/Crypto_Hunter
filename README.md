@@ -99,7 +99,7 @@ screenshots/chart.png
 
 🌐 **Live Website**
 
-https://YOUR_USERNAME.github.io/REPOSITORY_NAME/
+https://hemantsharma08.github.io/Crypto_Hunter/
 
 ---
 
@@ -172,8 +172,7 @@ Contributions are welcome!
 
 **Hemant Sharma**
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* GitHub: https://github.com/HemantSharma08
 
 ---
 
